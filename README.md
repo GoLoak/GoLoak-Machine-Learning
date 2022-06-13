@@ -8,11 +8,6 @@
 </br>
 </br>
 
----
-
-</br>
-</br>
-
 # Datasets
 
 *   https://www.kaggle.com/datasets/arkadiyhacks/drinking-waste-classification
